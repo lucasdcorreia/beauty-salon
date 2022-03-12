@@ -1,4 +1,6 @@
-#Beauty Salon
+<h1>
+Beauty Salon
+ </h1> 
 A commercial landing page presenting general informations like available services, contacts of beauty salon.
 
 <h1 align="center">
