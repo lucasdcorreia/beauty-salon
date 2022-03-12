@@ -9,3 +9,9 @@ A commercial landing page presenting general informations like available service
 
 
 ## 🚀 Technologies
+
+This project was developed with the following technologies:
+
+- HTML
+- CSS
+- JavaScript
