@@ -4,6 +4,13 @@ Beauty Salon
 <p>
 A commercial landing page presenting general informations like available services, clients testimonials, contacts and others about a beauty salon.
 </p>
+
+<p align="center">
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
  
 <h1 align="center" border-radius="30px">
 <img width="720px" alt="Beauty Salon Cover" src="https://user-images.githubusercontent.com/25250788/158037688-d64f95ab-b56d-4769-b811-19db7bf7be66.png">
