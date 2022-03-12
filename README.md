@@ -26,7 +26,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-https://lucasdcorreia.github.io/BeautySalon/
+published at https://lucasdcorreia.github.io/BeautySalon/
 
 
 --
