@@ -1,6 +1,7 @@
 <h1 align="center">
 Beauty Salon
  </h1> 
+ 
 <p>
 A commercial landing page presenting general informations like available services, clients testimonials, contacts and others about a beauty salon.
 </p>
@@ -8,8 +9,6 @@ A commercial landing page presenting general informations like available service
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
 </p>
  
 <h1 align="center" border-radius="30px">
@@ -25,5 +24,9 @@ This project was developed with the following technologies:
 - CSS
 - JavaScript
 
----
+## 💻 Project
+
+
+
+--
 See you :wave:
