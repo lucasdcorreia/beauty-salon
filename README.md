@@ -1,8 +1,6 @@
 <h1 align="center">
 <img width="374" alt="beauty-salon-logo" src="https://user-images.githubusercontent.com/25250788/158039917-e2e86bd3-4578-41c5-aedd-19790a780827.png">
-
-Beauty Salon
- </h1> 
+</h1> 
  
 <p>
 A commercial landing page presenting general informations like available services, clients testimonials, contacts and others about a beauty salon.
