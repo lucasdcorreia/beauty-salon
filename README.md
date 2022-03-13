@@ -26,7 +26,9 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-published at https://lucasdcorreia.github.io/BeautySalon/
+The projects consists in a single page application divided in five sections: home, about, services, testimonials and contact, plus a footer and a dinamic menu listing each section.
+
+published at https://lucasdcorreia.github.io/beauty-salon/
 
 
 --
