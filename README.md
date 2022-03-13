@@ -31,5 +31,5 @@ The projects consists in a single page application divided in five sections: hom
 published at https://lucasdcorreia.github.io/beauty-salon/
 
 
---
+---
 See you :wave:
