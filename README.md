@@ -1,4 +1,6 @@
 <h1 align="center">
+<img width="374" alt="beauty-salon-logo" src="https://user-images.githubusercontent.com/25250788/158039917-e2e86bd3-4578-41c5-aedd-19790a780827.png">
+
 Beauty Salon
  </h1> 
  
